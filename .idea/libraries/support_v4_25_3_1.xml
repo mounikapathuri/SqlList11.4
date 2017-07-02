@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="support-v4-25.3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/3efb67a07bf0f644115c0bc7a54fc9c84071563b/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/3efb67a07bf0f644115c0bc7a54fc9c84071563b/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

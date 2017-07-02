@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\mounika\AndroidStudioProjects\SqlList\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\mounika\AndroidStudioProjects\SqlList\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9ea83f6217b401df1d8bd97f9e59dd3a5b2e2058\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mounika\AndroidStudioProjects\SqlList\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c072cd27fad8636c3e2ea5cadba6e681cbe867c5">
+        <dex dex="C:\Users\mounika\AndroidStudioProjects\SqlList\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d57d0f0f110004d1e006ea41464cbddfd7a813bd\classes.dex" />
+    </item>
+
+</items>
